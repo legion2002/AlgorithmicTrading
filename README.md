@@ -12,11 +12,8 @@ Results
 >Having said that the strategy is far from ready for daily use in trading, as can be seen through the graphs in the colab notebook, you can see that it has a decent inaccuracy
 >rate.
 
-Instructions
+#Instructions
 +Go to this colab noteboook = [AlgoTradingFinal Colab Link](https://colab.research.google.com/drive/1m5COVqdVOByWF9H8AFuR8MNlB7ovxR3A?usp=sharing)
-
 +Run the blocks according to instructions in the notebook, change the stock code in the first block of the notebook according to your preference
-
 + __Note:__ Only stock codes listed in NASDAQ exchange are available
-
 +__Note:__ Running the code multiple times might lead to expiration of alpha vantage API calls, so please try again later.
